@@ -1,0 +1,9 @@
+.venv
+.env
+**/test*.py
+**/__pycache__
+.cache
+*.json
+*.db
+rrrr.py
+app1.py
